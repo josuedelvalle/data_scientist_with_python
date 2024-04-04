@@ -7,15 +7,20 @@ This repository contains data science projects from the "[Data Scientist with Py
 
      `pandas` `matplotlib`
 
-3. **Exploring NYC Public School Test Result Scores** 📝
+2. **Exploring NYC Public School Test Result Scores** 📝
    - Use data manipulation and summary statistics to analyze test scores across New York City's public schools. It involves utilizing standardized test performance data from NYC's public schools to identify the schools with top math results, analyze performance variations by borough, and determine the top ten performing schools in the city.
   
      `pandas` `numpy` || `pandas - .groupby()`
 
-4. **Visualizing the History of Nobel Prize Winners** 🎖️
+3. **Visualizing the History of Nobel Prize Winners** 🎖️
    - The Nobel Prize is awarded yearly to scientists and scholars in chemistry, literature, physics, medicine, economics, and peace, with the first prize awarded in 1901. Are there any biases in the way the honors are awarded? Use your data manipulation and visualization skills to explore the history of this coveted prize.
   
       `pandas` `numpy` `seaborn` || `pandas - .groupby()|.value_counts()` `seaborn - .relplot()`
+
+4. **Analyzing Crime in Los Angeles** 🎖️
+   - Find out when and where crime is most likely to occur, along with the types of crimes commonly committed in LA. Analyze crime data to guide the Los Angeles Police Department on how they should allocate resources to protect the people of their city.
+  
+      `pandas` `numpy` `matplotlib` `seaborn` || `pandas - .cut()` `seaborn - .countlot()|.barplot()`
    
    
  
