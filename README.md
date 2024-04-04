@@ -17,7 +17,7 @@ This repository contains data science projects from the "[Data Scientist with Py
   
       `pandas` `numpy` `seaborn` || `pandas - .groupby()|.value_counts()` `seaborn - .relplot()`
 
-4. **Analyzing Crime in Los Angeles** 🎖️
+4. **Analyzing Crime in Los Angeles** 👮
    - Find out when and where crime is most likely to occur, along with the types of crimes commonly committed in LA. Analyze crime data to guide the Los Angeles Police Department on how they should allocate resources to protect the people of their city.
   
       `pandas` `numpy` `matplotlib` `seaborn` || `pandas - .cut()` `seaborn - .countlot()|.barplot()`
