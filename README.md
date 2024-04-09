@@ -32,9 +32,14 @@ This repository contains data science projects from the "[Data Scientist with Py
   
       `pandas` `numpy` || `pandas - .merge()|.to_datetime()|.str.lower()|.str.replace()`
 
-7. **Modeling Car Insurance Claim Outcomes** 🏠
+7. **Modeling Car Insurance Claim Outcomes** 🚗
    - Clean customer data and use logistic regression to predict whether people will make a claim on their car insurance.
   
       `pandas` `numpy` `statsmodels` || `statsmodels - logit()` `accuracy`
+
+8. **Hypothesis Testing with Men's and Women's Soccer Matches** ⚽
+   - Perform a hypothesis test to determine if more goals are scored in women's soccer matches than men's.
+  
+      `pandas` `matplotlib` `pingouin` || `hypothesis testing`
    
    
