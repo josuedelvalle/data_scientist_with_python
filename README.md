@@ -31,5 +31,10 @@ This repository contains data science projects from the "[Data Scientist with Py
    - Apply your importing and cleaning data and data manipulation skills to explore New York City Airbnb data. New York City has a variety of Airbnb listings to meet the high demand for temporary lodging for travelers, with several different price levels, room types, and locations. In this project, you'll be able to practice your skills in importing and cleaning data and data manipulation to help you report insights to a real estate start-up.
   
       `pandas` `numpy` || `pandas - .merge()|.to_datetime()|.str.lower()|.str.replace()`
+
+7. **Modeling Car Insurance Claim Outcomes** 🏠
+   - Clean customer data and use logistic regression to predict whether people will make a claim on their car insurance.
+  
+      `pandas` `numpy` `statsmodels` || `statsmodels - logit()` `accuracy`
    
    
