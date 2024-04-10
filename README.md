@@ -41,5 +41,10 @@ This repository contains data science projects from the "[Data Scientist with Py
    - Perform a hypothesis test to determine if more goals are scored in women's soccer matches than men's.
   
       `pandas` `matplotlib` `pingouin` || `hypothesis testing`
+
+9. **Predictive Modeling for Agriculture** 🍏
+   - Dive into agriculture using supervised machine learning and feature selection to aid farmers in crop cultivation and solve real-world problems. A farmer reached out to you as a machine learning expert seeking help to select the best crop for his field. Due to budget constraints, the farmer explained that he could only afford to measure one out of the four essential soil measures. The expert realized that this is a classic feature selection problem, where the objective is to pick the most important feature that could help predict the crop accurately.
+  
+      `pandas` `matplotlib` `sklearn` || `supervised machine learning` `skelarn - LogisticRegression()`
    
    
