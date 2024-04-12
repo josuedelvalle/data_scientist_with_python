@@ -45,6 +45,16 @@ This repository contains data science projects from the "[Data Scientist with Py
 9. **Predictive Modeling for Agriculture** 🍏
    - Dive into agriculture using supervised machine learning and feature selection to aid farmers in crop cultivation and solve real-world problems. A farmer reached out to you as a machine learning expert seeking help to select the best crop for his field. Due to budget constraints, the farmer explained that he could only afford to measure one out of the four essential soil measures. The expert realized that this is a classic feature selection problem, where the objective is to pick the most important feature that could help predict the crop accurately.
   
-      `pandas` `matplotlib` `sklearn` || `supervised machine learning` `skelarn - LogisticRegression()`
+      `pandas` `matplotlib` `sklearn` || `supervised machine learning` `skelarn - LogisticRegression`
+
+10. **Clustering Antartic Penguin Species** 🐧
+    - Unsupervised learning is a critical task in machine learning, and it plays a significant role in this project. The objective is to delve into the information about penguins by utilizing unsupervised learning techniques on a thoughtfully curated dataset. By conducting thorough data exploration, extracting meaningful features, and employing advanced algorithms, this project aims to uncover concealed patterns, clusters, and relationships that exist within the dataset.
+  
+      `pandas` `matplotlib` `sklearn` || `unsupervised machine learning` `skelarn - StandardScaler|PCA|KMeans`
+
+11. **Predicting Movie Rental Durations** 🎞
+    - Build a regression model for a DVD rental firm to predict rental duration. Evaluate models to recommend the best one.
+  
+      `pandas` `matplotlib` `sklearn` || `supervised machine learning` `skelarn - Lasso|OLS|RandomForest`
    
    
